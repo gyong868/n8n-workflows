@@ -11,7 +11,8 @@ A single-command deployable stack for AI-powered workflow automation with image 
 **👉 [START HERE: Documentation Index](INDEX.md)** - Choose the right guide for you!
 
 - **🚀 [QUICK START](QUICK-START.md)** - 3 simple steps to get started
-- **📖 [EASY INSTALL GUIDE](EASY-INSTALL.md)** - Step-by-step with pictures
+- **📖 [EASY INSTALL GUIDE](EASY-INSTALL.md)** - Step-by-step for Windows/Mac
+- **🐧 [UBUNTU INSTALL GUIDE](UBUNTU-INSTALL.md)** - Complete guide for Ubuntu/Linux
 - **🔧 [TROUBLESHOOTING](TROUBLESHOOTING.md)** - Fix common problems
 - **📋 [SUMMARY](SUMMARY.md)** - Overview &amp; learning path
 - **🎯 [CHEAT SHEET](CHEAT-SHEET.md)** - Quick reference (print this!)

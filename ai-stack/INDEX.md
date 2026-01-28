@@ -11,11 +11,17 @@ This is your complete guide to the AI Automation Stack. Choose the guide that ma
 ### For Complete Beginners
 **Never used Docker or command line before?**
 
-1. 📖 **[EASY-INSTALL.md](EASY-INSTALL.md)** - Start here!
+1. 📖 **[EASY-INSTALL.md](EASY-INSTALL.md)** - Start here! (Windows/Mac)
    - Step-by-step instructions with pictures
    - Explains everything in simple terms
    - Includes "what you see" examples
    - Perfect for first-timers
+
+2. 🐧 **[UBUNTU-INSTALL.md](UBUNTU-INSTALL.md)** - Ubuntu/Linux users start here!
+   - Complete Ubuntu installation guide
+   - Docker setup for Linux
+   - GPU configuration for NVIDIA
+   - Ubuntu-specific troubleshooting
 
 ### For Quick Setup
 **Just want to get it running fast?**
